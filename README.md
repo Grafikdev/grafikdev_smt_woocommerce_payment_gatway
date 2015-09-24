@@ -1,2 +1,2 @@
-# grafikdev_smt_woocommerce_payment_gatway
+# SMT Woocommerce Payment Plugin
 SMT Woocommerce Payment Plugin
