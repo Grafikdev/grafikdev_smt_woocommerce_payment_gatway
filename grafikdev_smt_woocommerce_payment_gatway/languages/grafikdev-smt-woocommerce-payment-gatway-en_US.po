@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+
+msgid "SMT"
+msgstr ""
+
+msgid "Enable/Disable:"
+msgstr ""
+
+msgid "Enable SMT Payment Module."
+msgstr ""
+
+msgid "Title:"
+msgstr ""
+
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+msgid "Description:"
+msgstr ""
+
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+msgid "Affiliate:"
+msgstr ""
+
+msgid "Production Url:"
+msgstr ""
+
+msgid "This controls the production gateway url."
+msgstr ""
+
+msgid "Sandbox Url:"
+msgstr ""
+
+msgid "This controls the sandbox gateway url."
+msgstr ""
+
+msgid "Sandbox Mode:"
+msgstr ""
+
+msgid "Enable Sandbox Mode."
+msgstr ""
+
+msgid "Thank you for your order, please click the button below to pay with SMT Payment Gateway."
+msgstr ""
+
+msgid "Pay via smt"
+msgstr ""
+
+msgid "Cancel order &amp; restore cart"
+msgstr ""
+
+msgid "SMT Payment Gateway"
+msgstr ""
+
+msgid "Notification URL:"
+msgstr ""
+
+msgid "Success URL:"
+msgstr ""
+
+msgid "ERROR URL:"
+msgstr ""
+
+msgid "Payment error:"
+msgstr ""
+
+msgid " An error occurred during the payment process"
+msgstr ""

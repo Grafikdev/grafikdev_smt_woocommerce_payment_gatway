@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+
+msgid "SMT"
+msgstr ""
+
+msgid "Enable/Disable:"
+msgstr "Activer/D&eacute;sactiver"
+
+msgid "Enable SMT Payment Module."
+msgstr "Activer le module de paiement SMT"
+
+msgid "Title:"
+msgstr "Titre:"
+
+msgid "This controls the title which the user sees during checkout."
+msgstr "Ce champ controle le titre que l'utilisateur va voir durant la commande."
+
+msgid "Description:"
+msgstr ""
+
+msgid "This controls the description which the user sees during checkout."
+msgstr "Ce champ controle la description que l'utilisateur va voir durant la commande."
+
+msgid "Affiliate:"
+msgstr "Affili&eacute;:"
+
+msgid "Production Url:"
+msgstr "Lien de production:"
+
+msgid "This controls the production gateway url."
+msgstr "Ce champ controle le lien de production du module de paiement."
+
+msgid "Sandbox Url:"
+msgstr "Lien de test:"
+
+msgid "This controls the sandbox gateway url."
+msgstr "Ce champ controle le lien de test du module de paiement."
+
+msgid "Sandbox Mode:"
+msgstr "Mode de test:"
+
+msgid "Enable Sandbox Mode."
+msgstr "Activer le mode de test"
+
+msgid "Thank you for your order, please click the button below to pay with SMT Payment Gateway."
+msgstr "Merci pour votre commande. Merci de cliquer sur le boutton ci-dessous pour passer au paiment."
+
+msgid "Pay via smt"
+msgstr "Payer"
+
+msgid "Cancel order &amp; restore cart"
+msgstr "Annuler la commande et restaurer le panier"
+
+msgid "SMT Payment Gateway"
+msgstr "Module de paiement SMT"
+
+msgid "Notification URL:"
+msgstr "Lien de notification:"
+
+msgid "Success URL:"
+msgstr "Lien de succ&egrave;s:"
+
+msgid "ERROR URL:"
+msgstr "Lien d'erreur:"
+
+msgid "Payment error:"
+msgstr "Erreur lors du paiement:"
+
+msgid " An error occurred during the payment process"
+msgstr " Une erreur est survenue durant le processus de paiement"
